@@ -1,4 +1,30 @@
 body
 {
   background-color: Silver;
+  background-image: url("ChrisIsDigitized.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 18%;
+}
+
+h1
+{
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: lighter;
+}
+
+a:hover
+{
+  letter-spacing: 15px;
+  font-weight: bolder;
+	color: red;
+}
+
+#links
+{
+  position: absolute;
+  top: 50px;
+  right: 50px;
 }
