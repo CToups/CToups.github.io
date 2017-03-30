@@ -1,7 +1,7 @@
 body
 {
   background-color: Silver;
-  background-image: url("resumePic.jpg");
+  background-image: url("catstruction.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -13,15 +13,6 @@ h1
   font-size: 40px;
   font-family: "Courier New", Courier, monospace;
   font-weight: lighter;
-}
-
-h2
-{
-    position: absolute;
-    left: 40px;
-    top: 50px;
-    font-size: 12px;
-    font-weight: lighter;
 }
 
 a:hover
@@ -36,6 +27,4 @@ a:hover
   position: absolute;
   top: 50px;
   right: 50px;
-  font-weight: lighter;
-  font-family: "Courier New", Courier, monospace;
 }
